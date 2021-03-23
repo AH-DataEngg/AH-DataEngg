@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AH-DataEngg
 - 👀 I’m interested in ...Data and Analytics.
-- 🌱 I’m currently learning ...Big Data Engineering 
+- 🌱 I’m currently learning ...Different Big Data Engineering Methods
 - 💞️ I’m looking to collaborate on ...Datawarehousing or Analytical projects and discussions
 - 📫 How to reach me ...ashwathhegde98@gmail.com
 
